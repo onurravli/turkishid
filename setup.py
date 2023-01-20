@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup (
     name='turkishid',
-    version='0.1.1',
+    version='0.2',
     license='MIT',
     author="Onur Ravli",
     author_email='onur@ravli.co',
